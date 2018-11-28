@@ -1,8 +1,8 @@
 # Website details
-name: Name
-description: Description
+name: Nick Scialli
+description: JavaScript Developer
 email: email@site.com
-author: author
+author: Nick Scialli
 lang: en
 locale: en_US
 
@@ -15,7 +15,7 @@ timezone: America/New_York
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://nas5w.github.io
+baseurl: ""
 
 # Includes
 addthisId: ""
