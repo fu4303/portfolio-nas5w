@@ -20,7 +20,7 @@ baseurl: https://nick.scialli.me
 # Includes
 addthisId: ""
 disqusUsername: ""
-googleAnalyticsId: ""
+googleAnalyticsId: "UA-106974426-2"
 
 # Search engine verifications
 bing: ""
