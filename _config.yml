@@ -27,6 +27,9 @@ bing: ""
 yandex: ""
 google: ""
 
+plugins:
+  - jekyll-sitemap
+
 # Sitemap
 sitemap:
   file: "/sitemap.xml"
