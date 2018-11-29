@@ -1,7 +1,6 @@
 # Website details
 name: Nick Scialli
 description: JavaScript Developer
-email: email@site.com
 author: Nick Scialli
 lang: en
 locale: en_US
@@ -15,7 +14,7 @@ timezone: America/New_York
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: ""
+baseurl: https://nick.scialli.me
 
 # Includes
 addthisId: ""
