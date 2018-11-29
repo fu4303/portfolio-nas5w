@@ -29,8 +29,9 @@ google: ""
 
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate
 
-# Sitemap
+  # Sitemap
 sitemap:
   file: "/sitemap.xml"
   exclude:
