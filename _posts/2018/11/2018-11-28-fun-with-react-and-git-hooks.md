@@ -5,7 +5,7 @@ date: 2018-11-28 20:00:00+0200
 coverPhoto: https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
 ---
 
-One topic I have gotten more and more excited about throughout my software development career is quality! Perhaps I've been burned one too many times. Alas, I decided to test adding git hooks to a React project using the `husky` package. My goal was to make it so that, prior to either commiting code or pushing to a git repository, both the `eslint` linter and `jest` test suite must run. The code repository that accompanies this post can be found [here](https://github.com/nas5w/fun-with-react-and-git-hooks).
+One topic I have gotten more and more excited about throughout my software development career is quality! Perhaps I've been burned one too many times. Alas, I decided to test adding git hooks to a React project using the `husky` package. My goal was to make it so that, prior to either committing code or pushing to a git repository, both the `eslint` linter and `jest` test suite must run. The code repository that accompanies this post can be found [here](https://github.com/nas5w/fun-with-react-and-git-hooks).
 
 ## Set Up from Scratch
 
